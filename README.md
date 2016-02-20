@@ -10,6 +10,13 @@ The Game of Life running:
 
 ![eye-gif](eye.gif)
 
+
+Some pretty interesting effects can be produced by tweaking the drawing methods.
+For instance, this is what happens when changing the cell shape to circle, changing the opacity to low
+and the dead cell size to half of a normal cell.
+
+![gol](gol.gif)
+
 ##Notes
 
 * Works best on images that are naturally high contrast.
