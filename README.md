@@ -1,4 +1,4 @@
-#Image to Game of Life
+# Image to Game of Life
 
 A processing sketch that takes an image as input and uses it as the first generation for Conway's Game of Life. Click to start the game of life, and click to pause. Remember, when using a different image the size() function has to be updated accordingly. Here is it in action.
 
@@ -17,7 +17,7 @@ and the dead cell size to half of a normal cell.
 
 ![gol](gol.gif)
 
-##Notes
+## Notes
 
 * Works best on images that are naturally high contrast.
 * If an image comes out too dark or too light, try using different thresholds.
